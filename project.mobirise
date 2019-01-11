@@ -43,8 +43,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "SID - South Indian Dosa",
+        "meta_descr": "From South to You",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
